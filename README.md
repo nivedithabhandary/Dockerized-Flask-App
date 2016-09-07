@@ -13,4 +13,7 @@ jinja2 is a popular templating engine for Python.
 - When deploying to a webserver it is important to register which requirements we need. We do this by adding requirements.txt file.
 - Docker can build images automatically by reading the instructions from a Dockerfile. A Dockerfile is a text document that contains all the commands we would normally execute manually in order to build a Docker image. By calling docker build from terminal, we can have Docker build the image step by step, executing the instructions successively.
 
-
+### References:
+- http://flask.pocoo.org/docs/0.11
+- https://docs.docker.com/v1.5
+- http://www.tutorialspoint.com/flask/flask_application.htm
